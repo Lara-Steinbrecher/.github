@@ -16,8 +16,8 @@ La siguiente grilla refleja los horarios acordados de cada integrante. Se actual
 | 10:00–12:00 |       |        |           |        |         |        |
 | 12:00–14:00 |       |        |           |        |         |        |
 | 14:00–16:00 |       |        |           |        |         |        |
-| 16:00–18:00 |       |        |           |        |         |        |
-| 18:00–20:00 |       |        |           |        |         |        |
+| 16:00–18:00 |       |Fuster  |           |Fuster  |         |        |
+| 18:00–20:00 |       |Fuster  |           |Fuster  |         |        |
 | 20:00–22:00 |       |        |           |        |         |        |
 
 > _Para ver la disponibilidad detallada de cada integrante, consultá los archivos en [`disponibilidad/`](../disponibilidad/)._
