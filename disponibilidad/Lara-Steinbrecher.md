@@ -1,4 +1,4 @@
-# Disponibilidad — @usuario-github
+# Disponibilidad — @Lara-Steinbrecher
 
 > Completá este archivo y abrí un PR como parte del onboarding.
 > El horario refleja cuándo estás **físicamente presente en el laboratorio**.
